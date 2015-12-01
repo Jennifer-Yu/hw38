@@ -1,3 +1,8 @@
+//Jennifer Yu
+//APCS1 pd9
+//HW38 -- Keep Guessing
+//2015-11-30
+
 import cs1.Keyboard; // Keyboard
 
 public class GuessNumber {
